@@ -1,2 +1,2 @@
-# phaser_space_invader_advanced
-This repository contains the final version of the Space Invader clone developed together as part of the course. The clone is based on the Space Invader exercise.
+## Space Invader Advanced
+*Space Invader Advanced* ist eine Erweiterung des Space Invader Klons. In dieser Erweiterung wird das Spiel von funktionaler zu objektorientierter Programmierung überführt. Zudem werden mehrere Szenen für bspw. ein Menü und einen Highscore ergänzt. Zudem wird die Registry zur Speicherung von Daten eingeführt.
